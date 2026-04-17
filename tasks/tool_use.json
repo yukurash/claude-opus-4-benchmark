@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tu-001",
+    "goal": "Find the current population of Tokyo, then calculate what 3.7% of that is. Save the result to /tmp/tokyo_result.txt.",
+    "required_tools": ["search_web", "calculator", "write_file"]
+  },
+  {
+    "id": "tu-002",
+    "goal": "Read /tmp/config.json, extract the 'threshold' value, multiply it by 1.5, and write the new value to /tmp/new_threshold.txt.",
+    "required_tools": ["read_file", "calculator", "write_file"]
+  },
+  {
+    "id": "tu-003",
+    "goal": "Search for the latest Python version, then write its release date to /tmp/python_version.txt.",
+    "required_tools": ["search_web", "write_file"]
+  },
+  {
+    "id": "tu-004",
+    "goal": "Compute the compound interest on $10,000 at 5% annually for 10 years, then save a short report in /tmp/report.md.",
+    "required_tools": ["calculator", "write_file"]
+  },
+  {
+    "id": "tu-005",
+    "goal": "Read /tmp/numbers.txt, sum the integers inside, search the web for historical events related to that number, and save the summary.",
+    "required_tools": ["read_file", "calculator", "search_web", "write_file"]
+  }
+]

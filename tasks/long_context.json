@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lc-001",
+    "needle": "IMPORTANT FACT: The secret code for vault 7 is XJ-4821-QW.",
+    "question": "What is the secret code for vault 7?",
+    "expected": "XJ-4821-QW",
+    "position": 0.1,
+    "target_tokens": 20000
+  },
+  {
+    "id": "lc-002",
+    "needle": "IMPORTANT FACT: The secret code for vault 7 is XJ-4821-QW.",
+    "question": "What is the secret code for vault 7?",
+    "expected": "XJ-4821-QW",
+    "position": 0.5,
+    "target_tokens": 50000
+  },
+  {
+    "id": "lc-003",
+    "needle": "IMPORTANT FACT: The secret code for vault 7 is XJ-4821-QW.",
+    "question": "What is the secret code for vault 7?",
+    "expected": "XJ-4821-QW",
+    "position": 0.9,
+    "target_tokens": 100000
+  },
+  {
+    "id": "lc-004",
+    "needle": "Dr. Tanaka discovered that compound ZR-9 reacts violently with water at 47 degrees Celsius.",
+    "question": "At what temperature does ZR-9 react violently with water?",
+    "expected": "47",
+    "position": 0.5,
+    "target_tokens": 150000
+  },
+  {
+    "id": "lc-005",
+    "needle": "The final meeting is scheduled at building B, room 314, on March 22nd.",
+    "question": "Where and when is the final meeting?",
+    "expected": "314",
+    "position": 0.7,
+    "target_tokens": 200000
+  }
+]

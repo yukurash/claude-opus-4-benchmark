@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ja-001",
+    "prompt": "次の英文を自然な日本語に翻訳してください。直訳調は避けて、ビジネスメールとして違和感がないトーンで。\n\n\"I hope this email finds you well. Regarding our meeting last Tuesday, I wanted to follow up on the action items we discussed.\""
+  },
+  {
+    "id": "ja-002",
+    "prompt": "以下の文を、部長への報告メール冒頭にふさわしい敬語に書き換えてください。\n\n元文: 「昨日のミーティング、急に欠席してごめんね。資料は後で送るから。」"
+  },
+  {
+    "id": "ja-003",
+    "prompt": "次の技術記事を日本語で300字以内に要約してください。専門用語は残して構いません。\n\n本文: \"Retrieval-Augmented Generation (RAG) combines a retriever with a generator model. The retriever finds relevant documents from a knowledge base, and the generator uses them to produce grounded answers. This reduces hallucinations and allows domain knowledge updates without retraining.\""
+  },
+  {
+    "id": "ja-004",
+    "prompt": "次の関西弁の文を、標準語のビジネス文書に書き換えてください。\n\n「ほんまにこの仕様やとキツいねん。来週までに直さんと間に合わへんで、社長。」"
+  },
+  {
+    "id": "ja-005",
+    "prompt": "日本語の同音異義語の問題です。次の文の「こうしょう」を適切な漢字に変換してください。\n\n「取引先と価格のこうしょうを重ねた結果、満足できるこうしょうに至った。」"
+  }
+]

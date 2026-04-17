@@ -1,0 +1,12 @@
+[
+  {"id": "rea-001", "question": "A bat and ball cost $1.10. The bat costs $1.00 more than the ball. How much is the ball in cents?", "expected": "5"},
+  {"id": "rea-002", "question": "5 machines take 5 minutes to make 5 widgets. How many minutes do 100 machines take to make 100 widgets?", "expected": "5"},
+  {"id": "rea-003", "question": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies? yes or no.", "expected": "yes"},
+  {"id": "rea-004", "question": "What is the 7th prime number?", "expected": "17"},
+  {"id": "rea-005", "question": "Find x: 2x + 3 = 11. Just the number.", "expected": "4"},
+  {"id": "rea-006", "question": "In a race, you overtake the person in 2nd place. What place are you in?", "expected": "2nd"},
+  {"id": "rea-007", "question": "A rope ladder hangs off a ship, rungs are 30cm apart. Tide rises 1m/hour. After 3 hours, how many rungs are submerged if 3 were at start? (ship floats)", "expected": "3"},
+  {"id": "rea-008", "question": "I have 3 apples today. Yesterday I ate 1. How many apples do I have now?", "expected": "3"},
+  {"id": "rea-009", "question": "What is 15% of 80?", "expected": "12"},
+  {"id": "rea-010", "question": "If it takes 8 hours for 4 people to dig a hole, how many hours for 2 people (same pace)?", "expected": "16"}
+]
